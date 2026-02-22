@@ -1,10 +1,10 @@
-## EventPulse — Scalable Order Ingestion & Analytics Backend:
+# EventPulse — Scalable Order Ingestion & Analytics Backend:
 
 EventPulse is a production-grade backend system designed to handle large-scale order ingestion, asynchronous processing, and real-time analytics.
 
 The system supports bulk inserts, duplicate handling, distributed rate limiting, background computation, caching, and containerized deployment.
 
-# 🚀 Key Features:
+## 🚀 Key Features:
 
 - High-throughput ingestion API
 
@@ -25,7 +25,7 @@ The system supports bulk inserts, duplicate handling, distributed rate limiting,
 - Fully containerized using Docker Compose
 
 
-# 🏗 Tech Stack:
+## 🏗 Tech Stack:
 
 - FastAPI (Async API framework)
 
@@ -37,7 +37,7 @@ The system supports bulk inserts, duplicate handling, distributed rate limiting,
 
 - Docker & Docker Compose (Deployment)
 
-# What This Project Demonstrates
+## What This Project Demonstrates
 
 - Building async APIs with FastAPI
 
