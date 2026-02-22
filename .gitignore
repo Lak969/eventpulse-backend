@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+.env.*
+*.log
+mongo_data/
+redis_data/
+.idea/
+.vscode/
